@@ -223,7 +223,7 @@
 .right-area p {
     padding-left: 70px;
     text-align: justify;
-    word-break: break-all;
+    word-break: keep-all;
     font-size: 17px;
     color: gray;
     margin-top: 10px;
